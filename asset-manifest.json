@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Amara-DMX/static/css/main.9dcee6c9.css",
+    "main.js": "/Amara-DMX/static/js/main.d0f3e085.js",
+    "static/media/bg2.jpg": "/Amara-DMX/static/media/bg2.5fe3a724ce11d3d27dbe.jpg",
+    "static/media/bg1.jpg": "/Amara-DMX/static/media/bg1.f86641b3b92556ef0546.jpg",
+    "static/media/amyy.png": "/Amara-DMX/static/media/amyy.61b69825db8e18a848a7.png",
+    "static/media/blueline.png": "/Amara-DMX/static/media/blueline.8dc80d1bb8200dcc8d47.png",
+    "index.html": "/Amara-DMX/index.html",
+    "main.9dcee6c9.css.map": "/Amara-DMX/static/css/main.9dcee6c9.css.map",
+    "main.d0f3e085.js.map": "/Amara-DMX/static/js/main.d0f3e085.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9dcee6c9.css",
+    "static/js/main.d0f3e085.js"
+  ]
+}
